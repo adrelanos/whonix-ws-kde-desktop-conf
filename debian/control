@@ -18,3 +18,9 @@ Depends: plasma-widget-folderview, ${misc:Depends}
 Description: KDE Desktop Settings for Whonix-Workstation
  Enables KDE folderview (allows desktop shortcuts) and sets Whonix-Workstation
  specific wallpaper.
+ .
+ For better usability.
+ .
+ This package only takes effect for newly created user accounts. Not for
+ existing user accounts. This package is most useful to help Linux distribution
+ maintainers setting divergent defaults.
