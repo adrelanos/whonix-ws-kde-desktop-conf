@@ -1,3 +1,9 @@
+whonix-ws-kde-desktop-conf (3:0.6-1) unstable; urgency=low
+
+  * New upstream version.
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Wed, 29 Oct 2014 19:09:13 +0000
+
 whonix-ws-kde-desktop-conf (3:0.5-1) unstable; urgency=low
 
   * New upstream version.
