@@ -20,7 +20,7 @@ License: GPL-3+
  License version 3 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
 
-Files: /usr/share/whonix-ws-kde-desktop-conf/share/apps/plasma-desktop/init/00-defaultLayout.js
+Files: usr/share/whonix-ws-kde-desktop-conf/share/apps/plasma-desktop/init/00-defaultLayout.js
 Comment: Downloaded from:
          http://packages.debian.org/wheezy/plasma-desktop
          http://metadata.ftp-master.debian.org/changelogs//main/k/kde-workspace/kde-workspace_4.8.4-6_copyright
@@ -42,7 +42,7 @@ License: GPLv2
   The full text of the GNU General Public License version 2 is available on
   Debian systems in /usr/share/common-licenses/GPL-2.
 
-Files: /usr/share/whonix-gw-kde-desktop-conf/share/apps/plasma-desktop/updates/01-removeNm.js
+Files: usr/share/whonix-gw-kde-desktop-conf/share/apps/plasma-desktop/updates/01-removeNm.js
 Comment: Downloaded from:
          https://projects.kde.org/projects/kde/kdeexamples/repository/revisions/master/show/plasma/javascript/plasma-shell-scripting
          https://projects.kde.org/projects/kde/kdeexamples/repository/revisions/master/changes/plasma/javascript/plasma-shell-scripting/removeSystrayApplet.js
